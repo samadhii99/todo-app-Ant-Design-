@@ -14,5 +14,4 @@ export interface Todo {
   category?: TodoCategory;
   priority?: TodoPriority;
   dueDate?: string; // ISO date string
-  createdAt: string;
 }

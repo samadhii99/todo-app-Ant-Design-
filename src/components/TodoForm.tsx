@@ -21,6 +21,7 @@ const TodoForm: React.FC<TodoFormProps> = ({ addTodo }) => {
       title,
       description,
       completed: false,
+      createdAt: new Date().toISOString(), // Added this line to fix the error
     });
 
     setTitle("");
