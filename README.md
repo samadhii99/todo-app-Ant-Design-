@@ -1,2 +1,17 @@
-# nwwww todo-app
+# Todo Task Manager
+
+A sleek, modern task management application built with React and Ant Design. This responsive web app helps you organize your daily tasks with a clean and intuitive interface.
+
+## Features
+
+- Create, edit, and delete tasks with titles and descriptions
+- Mark tasks as complete with visual indicators
+- Automatic task sorting (pending first, then by creation date)
+- Progress tracking with visual statistics
+- Dark/light mode toggle with system preference detection
+- Persistent storage using localStorage
+- Fully responsive design for all devices
+- Professional UI with smooth animations
+
+This project demonstrates modern React development practices including hooks, TypeScript integration, and component-based architecture. The UI is built using Ant Design components for a consistent and professional look and feel.
  
